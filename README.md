@@ -11,7 +11,7 @@
 	  <img src="https://img.shields.io/badge/-Gmail-A8B9CC?style=for-the-badge&logo=gmail&&logoColor=A8B9CC&labelColor=black" alt="Contact me" title="Contact me" height="30"></a>
 </p>
 
-<p align="center"> I'm a web developer with a background both in Mathematics, Physics and Computer Engineering. I started my BA in Uruguay and I'm looking to finish my studies in Spain.</p>
+<p align="center"> I'm a web developer with a background both in Mathematics, Physics and Computer Engineering. I started my BA in Uruguay and I'm completing my studies in Spain.</p>
 <p align="center"> I love challenges! Im equipped with critical thinking skills and multidisciplinary approach to problem-solving. </p>
 <p align="center"> 🌱 Currently studing at <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/">42 School, Malaga.</a></p>
 
