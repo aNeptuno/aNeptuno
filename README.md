@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Alex Diban</h1>
 
-<h2 align="center">Web developer 👨‍💻</h2>
+<h2 align="center">Developer 👨‍💻</h2>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-n-diban-iriarte-a24223228/">
