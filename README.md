@@ -15,18 +15,6 @@
 <p align="center"> I love challenges! Im equipped with critical thinking skills and multidisciplinary approach to problem-solving. </p>
 <p align="center"> 🌱 Currently studing at <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/">42 School, Malaga.</a></p>
 
-## 💻 Web development Frameworks
-<div>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black"  height="30">
-  <img alt="Express" src="https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=grey&labelColor=black" height="30">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" height="30">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=black" height="30">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=black" height="30">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black" height="30">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black" height="30">
-</div>
-<br>
-
 ## 📚 Languages and Libraries
 <div> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=512BD4&labelColor=black" height="30">
@@ -50,6 +38,18 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=5C2D91&labelColor=black" height="30">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=black" height="30">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=3DDC84&labelColor=black" height="30">
+</div>
+<br>
+
+## 💻 Web development Frameworks
+<div>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black"  height="30">
+  <img alt="Express" src="https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=grey&labelColor=black" height="30">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" height="30">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=black" height="30">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=black" height="30">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black" height="30">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black" height="30">
 </div>
 <br>
 
