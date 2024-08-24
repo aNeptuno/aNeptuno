@@ -1,4 +1,4 @@
-<h1 align="center">I am Alex Diban</h1>
+<h1 align="center">I'm Alex Diban</h1>
 
 <h2 align="center">Software Developer 👨‍💻</h2>
  
