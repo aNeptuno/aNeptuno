@@ -22,7 +22,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" height="30">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black" height="30">
   <img alt="php" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=black" height="30">
-  <img alt="Testing" src="https://img.shields.io/badge/Testing-00C8F8?style=for-the-badge&logo=testing-library&logoColor=white" height="30">
+  <img alt="Testing" src="https://img.shields.io/badge/Testing-FFCA28?style=for-the-badge&logo=jest&logoColor=black" height="30">
 </div>
 <br>
 
