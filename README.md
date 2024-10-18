@@ -16,13 +16,19 @@
 
 ## 💻💼 Professional Experience 
 <div> 
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=512BD4&labelColor=black" height="30">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=512BD4&labelColor=black" height="30">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-A8B9CC?style=for-the-badge&logo=unity&logoColor=A8B9CC&labelColor=black" height="30">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F3DF49?style=for-the-badge&logo=javascript&logoColor=F3DF49&labelColor=black" height="30">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" height="30">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black" height="30">
   <img alt="php" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=black" height="30">
-  <img alt="Testing" src="https://img.shields.io/badge/Testing-FFCA28?style=for-the-badge&logo=jest&logoColor=white&labelColor=black" height="30">
+  <img alt="Jest/Vitest" src="https://img.shields.io/badge/Jest-FFCA28?style=for-the-badge&logo=jest&logoColor=FFCA28&labelColor=black" height="30">
+  <img alt="Oculus" src="https://img.shields.io/badge/Oculus-white?style=for-the-badge&logo=oculus&logoColor=white&labelColor=black" height="30">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="30">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=black" height="30">
+
+
+
 
 
 </div>
@@ -31,7 +37,7 @@
 ## 💻🌱 Personal Experience
 <div>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=black" height="30">
-  <img alt="Unix" src="https://img.shields.io/badge/Unix-grey?style=for-the-badge&logo=linux&logoColor=grey&labelColor=black" height="30"> 
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=grey&labelColor=black" height="30"> 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=black" height="30">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=black" height="30">
   <img alt="Express" src="https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=grey&labelColor=black" height="30">
@@ -39,6 +45,12 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black" height="30">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black"  height="30">
+<img alt="Playwright/Cypress" src="https://img.shields.io/badge/Playwright%2FCypress-2EAD33?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black" height="30">
+
+
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=black" height="30">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black" height="30">
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="30">
 </div>
 <br>
 
