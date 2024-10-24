@@ -11,7 +11,9 @@
 	  <img src="https://img.shields.io/badge/-Gmail-A8B9CC?style=for-the-badge&logo=gmail&&logoColor=A8B9CC&labelColor=black" alt="Contact me" title="Contact me" height="30"></a>
 </p>
 
-<p align="center">I am a software developer with a background in Mathematics and Computer Engineering, motivated by programming challenges and dedicated to ongoing learning, equipped with critical thinking skills and a multi-disciplinary approach to problem-solving.</p>
+<p align="center">Dedicated software developer with a background in Mathematics and Computer Engineering, experienced in collaborating
+with multidisciplinary teams in fast-paced environments, and committed to continuous learning through study and
+real-world projects.</p>
 <p align="center"> 🌱 Currently studing at <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/">42 School, Malaga.</a></p>
 
 ## 💻💼 Professional Experience 
