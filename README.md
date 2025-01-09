@@ -16,7 +16,7 @@ with multidisciplinary teams in fast-paced environments, and committed to contin
 real-world projects.</p>
 <p align="center"> 🌱 Currently studing at <a href="https://www.fundaciontelefonica.com/empleabilidad/campus-42/">42 School, Malaga.</a></p>
 
-## 💻💼 Professional Experience 
+## 💻💼 Skills
 <div> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=512BD4&labelColor=black" height="30">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-A8B9CC?style=for-the-badge&logo=unity&logoColor=A8B9CC&labelColor=black" height="30">
@@ -28,16 +28,6 @@ real-world projects.</p>
   <img alt="Oculus" src="https://img.shields.io/badge/Oculus-white?style=for-the-badge&logo=oculus&logoColor=white&labelColor=black" height="30">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="30">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=black" height="30">
-
-
-
-
-
-</div>
-<br>
-
-## 💻🌱 Personal Experience
-<div>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=black" height="30">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=grey&labelColor=black" height="30"> 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=E23237&labelColor=black" height="30">
