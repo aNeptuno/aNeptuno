@@ -20,6 +20,8 @@ real-world projects.</p>
 <div> 
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=512BD4&labelColor=black" height="30">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-A8B9CC?style=for-the-badge&logo=unity&logoColor=A8B9CC&labelColor=black" height="30">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=black" height="30">
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=5C2D91&labelColor=black" height="30">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F3DF49?style=for-the-badge&logo=javascript&logoColor=F3DF49&labelColor=black" height="30">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" height="30">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black" height="30">
@@ -39,10 +41,9 @@ real-world projects.</p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black"  height="30">
 <img alt="Playwright/Cypress" src="https://img.shields.io/badge/Playwright%2FCypress-2EAD33?style=for-the-badge&logo=cypress&logoColor=white&labelColor=black" height="30">
 
-
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="30">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=black" height="30">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black" height="30">
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="30">
 </div>
 <br>
 
