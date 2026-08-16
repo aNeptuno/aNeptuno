@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alex Diban</h1>
+<h1 align="center">Alex Diban Iriarte</h1>
 
 <h2 align="center">Full-Stack & Mobile Developer 👨‍💻</h2>
 
